@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Start with a Template
+title: Netlify CMS | Open-Source Content Management System
 date: 2018-10-20T17:19:06.567Z
 description: >-
   Open source content management for your Git workflow
